@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 009b5aca62da24bde8b3949292001847
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Cube
+    100004: glowa
+    100006: glowa_end
+    100008: korpus
+    100010: korpus.001
+    100012: l noga 1
+    100014: l noga 2
+    100016: l ramie
+    100018: l reka 1
+    100020: l reka 2
+    100022: l reka 2_end
+    100024: l sotpa
+    100026: l sotpa_end
+    100028: p noga 1
+    100030: p noga 2
+    100032: p ramie
+    100034: p reka 1
+    100036: p reka 2
+    100038: p reka 2_end
+    100040: p stopa
+    100042: p stopa_end
+    100044: szyja
+    100046: //RootNode
+    400000: Armature
+    400002: Cube
+    400004: glowa
+    400006: glowa_end
+    400008: korpus
+    400010: korpus.001
+    400012: l noga 1
+    400014: l noga 2
+    400016: l ramie
+    400018: l reka 1
+    400020: l reka 2
+    400022: l reka 2_end
+    400024: l sotpa
+    400026: l sotpa_end
+    400028: p noga 1
+    400030: p noga 2
+    400032: p ramie
+    400034: p reka 1
+    400036: p reka 2
+    400038: p reka 2_end
+    400040: p stopa
+    400042: p stopa_end
+    400044: szyja
+    400046: //RootNode
+    4300000: Cube
+    7400000: walk
+    9500000: //RootNode
+    13700000: Cube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: e537e87621815489b906b5551ff1e185, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Armature|walk
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/korpus.001
+        weight: 1
+      - path: Armature/korpus.001/korpus
+        weight: 1
+      - path: Armature/korpus.001/korpus/l ramie
+        weight: 1
+      - path: Armature/korpus.001/korpus/l ramie/l reka 1
+        weight: 1
+      - path: Armature/korpus.001/korpus/l ramie/l reka 1/l reka 2
+        weight: 1
+      - path: Armature/korpus.001/korpus/l ramie/l reka 1/l reka 2/l reka 2_end
+        weight: 1
+      - path: Armature/korpus.001/korpus/p ramie
+        weight: 1
+      - path: Armature/korpus.001/korpus/p ramie/p reka 1
+        weight: 1
+      - path: Armature/korpus.001/korpus/p ramie/p reka 1/p reka 2
+        weight: 1
+      - path: Armature/korpus.001/korpus/p ramie/p reka 1/p reka 2/p reka 2_end
+        weight: 1
+      - path: Armature/korpus.001/korpus/szyja
+        weight: 1
+      - path: Armature/korpus.001/korpus/szyja/glowa
+        weight: 1
+      - path: Armature/korpus.001/korpus/szyja/glowa/glowa_end
+        weight: 1
+      - path: Armature/korpus.001/l noga 1
+        weight: 1
+      - path: Armature/korpus.001/l noga 1/l noga 2
+        weight: 1
+      - path: Armature/korpus.001/l noga 1/l noga 2/l sotpa
+        weight: 1
+      - path: Armature/korpus.001/l noga 1/l noga 2/l sotpa/l sotpa_end
+        weight: 1
+      - path: Armature/korpus.001/p noga 1
+        weight: 1
+      - path: Armature/korpus.001/p noga 1/p noga 2
+        weight: 1
+      - path: Armature/korpus.001/p noga 1/p noga 2/p stopa
+        weight: 1
+      - path: Armature/korpus.001/p noga 1/p noga 2/p stopa/p stopa_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
